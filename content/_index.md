@@ -1,22 +1,26 @@
 +++
 title = "Maksym Tarnavskyi"
-template = "index.html"
 +++
 
-# About Me
+# Hello, I'm Maksym
 
-I'm a Lead NLP Data Scientist at Shelf with 7+ years of experience in Machine Learning and Generative AI. I specialize in building production-ready AI systems, particularly conversational AI and RAG (Retrieval Augmented Generation) systems.
-
-Currently, I lead the development of "Search Copilot," a conversational AI system that handles 120K+ monthly queries with a 64% positive response rate across 5K active users.
+I'm a Lead NLP Data Scientist with 7+ years of experience in Machine Learning and Generative AI. I specialize in building production-ready AI systems, particularly conversational AI and RAG systems.
 
 ## What I Do
 
-- **Team Leadership**: Leading cross-functional teams and supervising ML engineers
-- **Research**: Published at ACL 2022, focusing on sequence tagging and grammatical error correction
-- **Production AI**: Building and deploying large-scale ML systems from ideation to production
-- **LLM Development**: Fine-tuning models like Llama2 7B using PEFT techniques
-- **Teaching**: Guest lecturer on NLP at Ukrainian Catholic University
+**NLP & Generative AI**  
+Building conversational AI systems and RAG pipelines. Expert in transformer architectures, LLMs, and fine-tuning techniques using PyTorch and TensorFlow.
 
-## Technical Focus
+**Research & Publications**  
+Published at ACL 2022 on grammatical error correction. Master's in Data Science from Ukrainian Catholic University. Guest lecturer on NLP courses.
 
-My expertise spans NLP, machine learning frameworks (PyTorch, TensorFlow), LLM technologies (LangChain, transformers), and cloud infrastructure (AWS, Vertex AI). I'm passionate about bridging the gap between cutting-edge research and practical AI applications.
+**Technical Leadership**  
+Leading cross-functional teams and supervising ML engineers. Building agentic systems and production AI solutions.
+
+## Contact
+
+Feel free to reach out for collaborations, opportunities, or just to chat about NLP and AI.
+
+**Email:** [maksym.tarnavskyi@gmail.com](mailto:maksym.tarnavskyi@gmail.com)  
+**GitHub:** [MaksTarnavskyi](https://github.com/MaksTarnavskyi)  
+**LinkedIn:** [maksym-tarnavskyi](https://linkedin.com/in/maksym-tarnavskyi)

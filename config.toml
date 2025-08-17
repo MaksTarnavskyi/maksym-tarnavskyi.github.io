@@ -1,26 +1,21 @@
-# The URL the site will be built for
 base_url = "https://maksym-tarnavskyi.github.io"
-
-# Whether to automatically compile all Sass files in the sass directory
+title = "Maksym Tarnavskyi"
+description = "Lead NLP Data Scientist specializing in Generative AI and Machine Learning"
 compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
-
-# The theme to use
-theme = "particle"
+minify_html = true
+generate_feeds = false
+theme = "anemone"
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+external_links_target_blank = true
+smart_punctuation = true
 
 [extra]
-# User settings
-username = "Maksym Tarnavskyi"
-user_description = "Lead NLP Data Scientist with 7+ years of experience in Machine Learning and Generative AI. I specialize in building production-ready AI systems, particularly conversational AI and RAG systems. Published researcher in computational linguistics with expertise in LLMs, fine-tuning, and team leadership."
-user_title = "Lead NLP Data Scientist"
-email = "maksym.tarnavskyi@gmail.com"
-github_username = "maksym-tarnavskyi"
-linkedin_username = "maksym-tarnavskyi"
-twitter_username = ""
+author = "Maksym Tarnavskyi"
+list_pages = false
+enable_search = false
+
+header_nav = [
+  { url = "/", name_en = "/home/" }
+]
