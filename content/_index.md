@@ -4,7 +4,7 @@ title = "Maksym Tarnavskyi"
 
 # Hello, I'm Maksym
 
-I'm a Lead NLP Data Scientist with 7+ years of experience in Machine Learning and Generative AI. I specialize in building production-ready AI systems, particularly conversational AI and RAG systems.
+I'm a Lead NLP Data Scientist with 7+ years of experience in Machine Learning and Generative AI. Currently working at Shelf, building unstructured data management, graph retrieval and agentic conversational AI systems.
 
 ## What I Do
 
