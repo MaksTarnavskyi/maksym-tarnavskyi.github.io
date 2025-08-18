@@ -1,6 +1,6 @@
 # Maksym Tarnavskyi 🚀
 
-Lead NLP Data Scientist passionate about building agentic conversational AI systems and making machines understand human language 🤖✨
+Senior NLP Data Scientist passionate about building agentic conversational AI systems and making machines understand human language 🧠✨
 
 ## Links
 - 🌐 [Personal Website](https://makstarnavskyi.github.io)

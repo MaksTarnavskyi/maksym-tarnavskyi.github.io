@@ -4,7 +4,7 @@ title = "Maksym Tarnavskyi"
 
 # Hello, I'm Maksym
 
-I'm a Lead NLP Data Scientist with 7+ years of experience in Machine Learning and Generative AI. Currently working at Shelf, building unstructured data management, graph retrieval and agentic conversational AI systems.
+Turning ideas into intelligent AI systems 🚀 Seven years of transforming complex problems into production-ready solutions in Machine Learning and Generative AI. Currently at Shelf, crafting the future of unstructured data management and agentic conversational AI.
 
 ## What I Do
 
