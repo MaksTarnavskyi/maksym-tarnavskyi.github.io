@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://maksym-tarnavskyi.github.io/sitemap.xml
