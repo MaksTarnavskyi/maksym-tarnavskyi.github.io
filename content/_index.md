@@ -9,7 +9,7 @@ Turning ideas into intelligent AI systems 🚀 Seven years of transforming compl
 ## What I Do
 
 **NLP & Generative AI**  
-Building conversational AI systems and RAG pipelines. Expert in transformer architectures, LLMs, and fine-tuning techniques using PyTorch and TensorFlow.
+Building conversational AI systems and RAG pipelines. Expert in transformer architectures, LLMs, and fine-tuning techniques from research to production.
 
 **Research & Publications**  
 ["Ensembling and Knowledge Distilling of Large Sequence Taggers for Grammatical Error Correction"](https://aclanthology.org/2022.acl-long.266/) - ACL 2022 main track (oral presentation). [GitHub repository](https://github.com/MaksTarnavskyi/gector-large) with implementation.
